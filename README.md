@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">If you want to contact me my discord is : virtual065</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
